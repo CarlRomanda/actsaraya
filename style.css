@@ -1,0 +1,72 @@
+body{
+    background: center;
+    background-size: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.dropdown-content li>span {
+    color: blueviolet !important;
+    background: yellow !important;
+}
+
+
+.switch label input[type=checkbox]:checked+.lever:after{
+    background-color: yellow !important;
+}
+
+
+
+
+.datepicker-date-display {
+    background: #000000 !important;
+}
+
+.progress .determinate {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: yellow;
+    -webkit-transition: width .3s linear;
+    transition: width .3s linear;
+}
+
+.progress .determinate {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background-color: purple;
+    -webkit-transition: width .3s linear;
+    transition: width .3s linear;
+}
